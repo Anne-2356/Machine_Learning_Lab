@@ -1,6 +1,6 @@
-Machine Learning Lab
+**Machine Learning Lab**
 
-About
+About:
 
 This repository contains the practical experiments completed as part of the Machine Learning Lab course in the M.Sc. Data Science programme at Loyola College, Chennai.
 
